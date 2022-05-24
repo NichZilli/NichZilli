@@ -1,7 +1,6 @@
 ### Olá! Eu sou o Nicholas Zilli
 
-- 🌱 Estudando Django/RestAPI
-- 👯 Procurando colaborações em Python e Django
+- 🌱 Estudando NodeJS/RestAPI
 - Meu Portfolio: https://portfolio-nicholaszilli.herokuapp.com
 
 <div>
