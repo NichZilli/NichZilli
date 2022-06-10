@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Nicholas Zilli
 
-- 🌱 Estudando NodeJS/RestAPI
+- 🌱 Estudando NodeJS; APIRest; AWS
 - Meu Portfolio: https://portfolio-nicholaszilli.herokuapp.com
 
 <div>
