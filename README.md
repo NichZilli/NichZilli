@@ -30,3 +30,8 @@
  <a href = "mailto:nich.zilli@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=black" target="_blank"></a>
   <a href="https://www.linkedin.com/in/nicholas-gomez-zilli-castro-a11bb8187" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=black" target="_blank"></a> 
 </div>
+
+[![Rep 1](https://github-readme-stats.vercel.app/api/pin/?username=NichZilli&show_owner=true&show_icons=true&theme=midnight-purple&repo=Django)](https://github.com/NichZilli/Django_Framework)
+[![Rep 2](https://github-readme-stats.vercel.app/api/pin/?username=NichZilli&show_owner=true&show_icons=true&theme=midnight-purple&repo=ComputacaoGrafica)](https://github.com/NichZilli/ComputacaoGrafica)
+[![Rep 3](https://github-readme-stats.vercel.app/api/pin/?username=NichZilli&show_owner=true&show_icons=true&theme=midnight-purple&repo=ProjetosIndependentes)](https://github.com/NichZilli/Projetos_Independentes)
+[![Rep 4](https://github-readme-stats.vercel.app/api/pin/?username=NichZilli&show_owner=true&show_icons=true&theme=midnight-purple&repo=IF-Coders)](https://github.com/NichZilli/IF-Coders)
