@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Nicholas Zilli
 
-- 🌱 Estudando NodeJS, API Rest e Embarcados.
+- 🌱 Estudando NodeJS, NestJS e TypeScript.
 - Meu Portfolio: https://portfolio-nicholaszilli.herokuapp.com
 
 <div>
