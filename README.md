@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Nicholas Zilli
 
 - 🌱 Estudando Ruby/Rails.
-- Meu Portfolio: https://portfolio-nicholaszilli.herokuapp.com
+- Meu Portfolio: https://nicholas-zilli.herokuapp.com
 
 <div>
   <a href="https://github.com/NichZilli">
