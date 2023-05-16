@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Nicholas Zilli
 
-- 🌱 Estudando Ruby/Rails.
+- 🌱 Estudando POSCOMP.
 - Meu Portfolio: https://nichzilli.github.io
 
 <div>
