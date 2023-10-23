@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Nicholas Zilli
 
-- 🌱 Estudando POSCOMP.
+- 🌱 Estudando Engenharia e Administração de Sistemas de Banco de Dados.
 - Meu Portfolio: https://nichzilli.github.io
 
 <div>
