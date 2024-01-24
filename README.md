@@ -13,8 +13,8 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Nich-Rails" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg">
   <img align="center" alt="Nich-Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
+  <img align="center" alt="Nich-Flask" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg">
   <img align="center" alt="Nich-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Nich-NestJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg">
   <img align="center" alt="Nich-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
   <img align="center" alt="Nich-Ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg">
   <img align="center" alt="Nich-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
