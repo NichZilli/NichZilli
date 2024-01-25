@@ -1,7 +1,7 @@
-### Olá! Eu sou o Nicholas Zilli
+### Hello! My name is Nicholas Zilli
 
-- 🌱 Estudando Engenharia e Administração de Sistemas de Banco de Dados (UNICAMP).
-- Meu Portfolio: https://nichzilli.github.io
+- 🌱 Studying Database Systems Engineering and Administration (Post Graduation - UNICAMP).
+- My Portfolio: https://nichzilli.github.io
 
 <div>
   <a href="https://github.com/NichZilli">
