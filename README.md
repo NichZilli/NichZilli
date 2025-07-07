@@ -1,7 +1,6 @@
 ### Hello! My name is Nicholas Zilli
 
 - 📚 Studying Database Systems Engineering and Administration (Post Graduation - UNICAMP)
-- 📖 Studying Data Science (Course - Escola DNC)
 - My Portfolio: https://nichzilli.github.io
 
 <div>
